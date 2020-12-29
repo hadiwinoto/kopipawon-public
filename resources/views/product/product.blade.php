@@ -55,8 +55,8 @@
           <div class="andro_product-body">
             <h5 class="andro_product-title"> <a href="product-single.html">Cappucino</a> </h5>
             <div class="andro_product-price">
-              <span>19$</span>
-              <span>29$</span>
+              <span>Rp. 17.000</span>
+              <span>Rp. 15.000</span>
             </div>
             <p>Cras ultricies ligula sed magna dictum porta. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus.</p>
             <div class="andro_rating-wrapper">
