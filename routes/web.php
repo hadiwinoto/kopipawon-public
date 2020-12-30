@@ -24,3 +24,7 @@ Route::get('/gallery','App\Http\Controllers\Pages\PagesController@ShowGallery');
 Route::get('/contact','App\Http\Controllers\Pages\PagesController@ShowContact');
 Route::get('/product','App\Http\Controllers\Pages\PagesController@ShowProduct');
 Route::get('/franchise','App\Http\Controllers\Pages\PagesController@ShowFranchise');
+
+Auth::routes();
+
+Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home');
